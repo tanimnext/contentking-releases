@@ -6,15 +6,8 @@
    "max_devices": 2,
    "name": "Test Customer",
    "plan": "lifetime"
-  },
-  "9bf30aea3f087d5d65c6f66f95746b03169f2c8e8b1a20b48b17edecb725b3ee": {
-   "expires": "2026-07-30",
-   "machines": [],
-   "max_devices": 2,
-   "name": "trialuser",
-   "plan": "trial"
   }
  },
- "updated": "2026-07-16T13:07:10",
+ "updated": "2026-07-16T13:07:56",
  "version": 1
 }
