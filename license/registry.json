@@ -1,5 +1,13 @@
 {
- "licenses": {},
- "updated": "2026-07-16T15:52:59",
+ "licenses": {
+  "08573bcc36f74f345fe20fa1bee07e256d2ee9794abeedf82c1a0d5ae72c8556": {
+   "expires": null,
+   "machines": [],
+   "max_devices": 2,
+   "name": "Tanim",
+   "plan": "lifetime"
+  }
+ },
+ "updated": "2026-07-16T16:20:34",
  "version": 1
 }
