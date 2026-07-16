@@ -1,0 +1,13 @@
+{
+ "licenses": {
+  "18aadb111b35e1950851dc61a09f6d288e1490417b52c5a3766d13a8b333abd2": {
+   "expires": null,
+   "machines": [],
+   "max_devices": 2,
+   "name": "Test Customer",
+   "plan": "lifetime"
+  }
+ },
+ "updated": "2026-07-16T13:07:07",
+ "version": 1
+}
