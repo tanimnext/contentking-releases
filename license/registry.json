@@ -6,8 +6,15 @@
    "max_devices": 2,
    "name": "Tanim",
    "plan": "lifetime"
+  },
+  "bcf8ec2ab94a4b400fb8426c3f8b60c5601054bd502f54726feb889f62a28823": {
+   "expires": "2026-07-31",
+   "machines": [],
+   "max_devices": 1,
+   "name": "Ismail",
+   "plan": "trial"
   }
  },
- "updated": "2026-07-16T16:20:34",
+ "updated": "2026-07-17T21:14:35",
  "version": 1
 }
