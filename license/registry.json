@@ -1,34 +1,13 @@
 {
  "licenses": {
-  "08573bcc36f74f345fe20fa1bee07e256d2ee9794abeedf82c1a0d5ae72c8556": {
-   "expires": null,
-   "machines": [],
-   "max_devices": 2,
-   "name": "Tanim",
-   "plan": "lifetime"
-  },
-  "4daeadd4f64d0ae98e3a39ca70fa1e1c0a98705f98f64c9cf651fc63c3c481e6": {
+  "0eb7feb9ca2b56ffe6422cf8abcb10b6c733ebe3cd191b3bb6d58dc91ccbb168": {
    "expires": null,
    "machines": [],
    "max_devices": 1,
-   "name": "Ismail",
-   "plan": "lifetime"
-  },
-  "bcf8ec2ab94a4b400fb8426c3f8b60c5601054bd502f54726feb889f62a28823": {
-   "expires": "2026-07-31",
-   "machines": [],
-   "max_devices": 1,
-   "name": "Ismail",
-   "plan": "trial"
-  },
-  "e7198c0a77a034315ead83065fd1727ce0d244d43eed0a5476f2f572d91d8032": {
-   "expires": null,
-   "machines": [],
-   "max_devices": 1,
-   "name": "shahidulseo78",
+   "name": "Test User",
    "plan": "lifetime"
   }
  },
- "updated": "2026-07-25T10:26:25",
+ "updated": "2026-07-25T17:39:47",
  "version": 1
 }
