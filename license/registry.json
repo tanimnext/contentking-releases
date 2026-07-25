@@ -20,8 +20,15 @@
    "max_devices": 1,
    "name": "Ismail",
    "plan": "trial"
+  },
+  "e7198c0a77a034315ead83065fd1727ce0d244d43eed0a5476f2f572d91d8032": {
+   "expires": null,
+   "machines": [],
+   "max_devices": 1,
+   "name": "shahidulseo78",
+   "plan": "lifetime"
   }
  },
- "updated": "2026-07-20T22:26:40",
+ "updated": "2026-07-25T10:26:25",
  "version": 1
 }
